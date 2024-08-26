@@ -1,0 +1,114 @@
+CAPSTONE PROJECT/Output Testcases.txt
+Step 1: Program Start
+--------------
+Bike Rental Shop
+--------------
+1. Admin
+2. User
+3. EXIT
+--------------
+User Input: 1 (for Admin)
+Step 2: Admin Adds Inventory
+--------------
+1. Add Inventory
+2. View Inventory
+3. Total Bikes Rented
+4. Total Revenue Generated
+5. Exit
+--------------
+User Input: 1 (to add inventory)
+How many inventories you want to add: 2
+
+Inventory number: 1
+Bike Type: Mountain Bike
+Amount of bikes: 5
+
+Inventory number: 2
+Bike Type: Road Bike
+Amount of bikes: 3
+
+---Inventory added---
+Step 3: Admin Views Inventory
+--------------
+1. Add Inventory
+2. View Inventory
+3. Total Bikes Rented
+4. Total Revenue Generated
+5. Exit
+--------------
+User Input: 2 (to view inventory)
+Bikes        Amount
+
+Mountain Bike        5
+Road Bike        3
+Step 4: Admin Exits
+--------------
+1. Add Inventory
+2. View Inventory
+3. Total Bikes Rented
+4. Total Revenue Generated
+5. Exit
+--------------
+User Input: 5 (to exit admin menu)
+Step 5: User Rents a Bike
+--------------
+Bike Rental Shop
+--------------
+1. Admin
+2. User
+3. EXIT
+--------------
+User Input: 2 (for User)
+--------------
+1. New Customer Rental
+2. Show Inventory
+3. Rental Return
+4. Exit
+--------------
+User Input: 1 (for new customer rental)
+Credentials
+
+Enter your name: John Doe
+Enter your unique ID: JD123
+
+Which bike you want to rent:
+
+Mountain Bike
+Road Bike
+
+Enter bike name: Mountain Bike
+How many bike you want to rent: 2
+For how many hours you want to rent: 4
+
+---Now you can check Rental Return---
+Step 6: User Checks Rental Return
+--------------
+1. New Customer Rental
+2. Show Inventory
+3. Rental Return
+4. Exit
+--------------
+User Input: 3 (to check rental return)
+ID: JD123
+Name: John Doe
+Type of Bike: Mountain Bike
+Bike Rent: $80
+Step 7: User Exits
+--------------
+1. New Customer Rental
+2. Show Inventory
+3. Rental Return
+4. Exit
+--------------
+User Input: 4 (to exit user menu)
+Step 8: Program Exits
+--------------
+Bike Rental Shop
+--------------
+1. Admin
+2. User
+3. EXIT
+--------------
+User Input: 3 (to exit the program)
+---Thanks for using Bike Rental Shop---
+This is how the output will appear for this specific sequence of inputs. The outputs would vary depending on the different choices made at each step.
